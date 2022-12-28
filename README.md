@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=kakeami&color=orange)
 
+![](image/making.gif)
+
 ## About me
 
 My name is Kakeami. As you can see from my account name, I love manga (“Kakeami” is a traditional technique used in Japanese manga).
