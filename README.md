@@ -29,8 +29,8 @@ I dream of going on a graduation trip with my family to the U.S. when I get my m
 
 ### Completed tasks
 
-![](https://pixe.la/v1/users/kakeami/graphs/todoist-graph.html)
+![](https://pixe.la/v1/users/kakeami/graphs/todoist-graph)
 
 ### Happiness
 
-![](https://pixe.la/v1/users/kakeami/graphs/happiness-graph.html)
+![](https://pixe.la/v1/users/kakeami/graphs/happiness-graph)
