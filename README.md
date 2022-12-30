@@ -13,7 +13,7 @@ I am a father of two children.
 As a hobby, I am studying Computer Science at OMSCS, Georgia Institute of Technology.
 I dream of going on a graduation trip with my family to the U.S. when I get my master’s degree (social and financial situations permitting).
 
-## Projects
+## Works
 
 - [ジョージア工科大学に合格するまでの572時間29分02秒](https://kakeami.github.io/road-to-gatech/)（Japanese only）
 - [マンガと学ぶデータビジュアライゼーション](https://kakeami.github.io/viz-madb/index.html)（Japanese only）
@@ -24,3 +24,13 @@ I dream of going on a graduation trip with my family to the U.S. when I get my m
 - GitHub - [`kakeami`](https://github.com/kakeami)
 - Zenn.dev - [`kakeami`](https://zenn.dev/kakeami)
 - Email: `kakeami dot contact at gmail dot com`
+
+## States
+
+### Completed tasks
+
+![](https://pixe.la/v1/users/kakeami/graphs/todoist-graph.html)
+
+### Happiness
+
+![](https://pixe.la/v1/users/kakeami/graphs/happiness-graph.html)
