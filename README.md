@@ -25,7 +25,7 @@ I dream of going on a graduation trip with my family to the U.S. when I get my m
 - Zenn.dev - [`kakeami`](https://zenn.dev/kakeami)
 - Email: `kakeami dot contact at gmail dot com`
 
-## States
+## Status
 
 ### Completed tasks
 
