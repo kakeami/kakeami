@@ -15,8 +15,8 @@ I dream of going on a graduation trip with my family to the U.S. when I get my m
 
 ## Works
 
-- [ジョージア工科大学に合格するまでの572時間29分02秒](https://kakeami.github.io/road-to-gatech/)（Japanese only）
-- [マンガと学ぶデータビジュアライゼーション](https://kakeami.github.io/viz-madb/index.html)（Japanese only）
+- [ジョージア工科大学に合格するまでの572時間29分02秒](https://kakeami.github.io/road-to-gatech/)
+- [マンガと学ぶデータビジュアライゼーション](https://kakeami.github.io/viz-madb/index.html)
 
 ## Contacts
 
