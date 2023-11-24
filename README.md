@@ -20,9 +20,11 @@ I dream of going on a graduation trip with my family to the U.S. when I get my m
 
 ## Contacts
 
-- Twitter - [`_kakeami`](https://twitter.com/_kakeami)
+- Bluesky - [kakeami.bsky.social](https://bsky.app/profile/kakeami.bsky.social)
 - GitHub - [`kakeami`](https://github.com/kakeami)
 - Zenn.dev - [`kakeami`](https://zenn.dev/kakeami)
+- しずかなインターネット - [`kakeami`](https://sizu.me/kakeami)
+- X - [`_kakeami`](https://twitter.com/_kakeami)
 - Email: `kakeami dot contact at gmail dot com`
 
 ## Status
