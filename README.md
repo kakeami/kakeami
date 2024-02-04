@@ -7,7 +7,7 @@
 My name is Kakeami.
 As hinted by my username, I have a deep affection for manga—“Kakeami” refers to a traditional shading technique used in Japanese manga.
 Until my third year of junior high, I aspired to become a manga artist.
-However, I abandoned this dream realizing I lacked the courage and skill to even complete an 18-page short story, not to mention a [full 45-page manuscript](https://shonenjumpplus.com/episode/3269754496401369355).
+However, I abandoned this dream realizing I lacked the courage and skill to even complete an 18-page short story, not to mention a [full 45-page story](https://shonenjumpplus.com/episode/3269754496401369355).
 
 I’ve since integrated into society, working as a company employee and fathering two children.
 As a hobby, I'm pursuing a Master’s in Computer Science through OMSCS at the Georgia Institute of Technology.
