@@ -5,25 +5,25 @@
 ## About
 
 My name is Kakeami.
-As you can see from my account name, I love manga (“Kakeami” is a traditional technique used in Japanese manga).
-I seriously wanted to be a manga creator until I was in the third year of junior high school, but I gave up because I didn’t have the guts and sense to draw even an 18-page short story, [let alone 45 pages](https://shonenjumpplus.com/episode/3269754496401369355).
+As hinted by my username, I have a deep affection for manga—“Kakeami” refers to a traditional shading technique used in Japanese manga.
+Until my third year of junior high, I aspired to become a manga artist.
+However, I abandoned this dream realizing I lacked the courage and skill to even complete an 18-page short story, not to mention a [full 45-page manuscript](https://shonenjumpplus.com/episode/3269754496401369355).
 
-I’m now a cog in the wheel of society as a company employee.
-I am a father of two children.
-As a hobby, I am studying Computer Science at OMSCS, Georgia Institute of Technology.
-I dream of going on a graduation trip with my family to the U.S. when I get my master’s degree (social and financial situations permitting).
+I’ve since integrated into society, working as a company employee and fathering two children.
+As a hobby, I'm pursuing a Master’s in Computer Science through OMSCS at the Georgia Institute of Technology.
+I dream of celebrating my graduation by traveling to the U.S. with my family, budget and global circumstances allowing.
 
 ## Works
 
-- [ジョージア工科大学に合格するまでの572時間29分02秒](https://kakeami.github.io/road-to-gatech/)
-- [マンガと学ぶデータビジュアライゼーション](https://kakeami.github.io/viz-madb/index.html)
+- [The 572 Hours, 29 Minutes, and 2 Seconds to Georgia Tech Admission](https://kakeami.github.io/road-to-gatech/)
+- [Learning Data Visualization through Manga](https://kakeami.github.io/viz-madb/index.html)
 
 ## Contacts
 
+- **しずかなインターネット** - [`kakeami`](https://sizu.me/kakeami)
 - Bluesky - [`kakeami.bsky.social`](https://bsky.app/profile/kakeami.bsky.social)
 - GitHub - [`kakeami`](https://github.com/kakeami)
 - Zenn.dev - [`kakeami`](https://zenn.dev/kakeami)
-- しずかなインターネット - [`kakeami`](https://sizu.me/kakeami)
 - X - [`_kakeami`](https://twitter.com/_kakeami)
 - Email: `kakeami dot contact at gmail dot com`
 
