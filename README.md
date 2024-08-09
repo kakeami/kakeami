@@ -31,8 +31,14 @@ I dream of celebrating my graduation by traveling to the U.S. with my family, bu
 
 ### [Completed tasks](https://pixe.la/v1/users/kakeami/graphs/todoist-graph.html)
 
+This graph displays the number of tasks completed in Todoist, a popular task management app.
+Each pixel represents the count of tasks marked as done on that particular day.
+
 ![](https://pixe.la/v1/users/kakeami/graphs/todoist-graph)
 
-### [Happiness](https://pixe.la/v1/users/kakeami/graphs/happiness-graph.html)
+### [Mindful breaths](https://pixe.la/v1/users/kakeami/graphs/breathing.html)
 
-![](https://pixe.la/v1/users/kakeami/graphs/happiness-graph)
+This graph tracks the number of mindful breaths counted each day as part of a mindfulness or meditation practice.
+Every pixel signifies the total count of conscious breaths taken on that specific day.
+
+![](https://pixe.la/v1/users/kakeami/graphs/breathing)
