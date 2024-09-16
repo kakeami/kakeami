@@ -1,3 +1,7 @@
+      - file: vol2/06/amounts.ipynb
+      4 file: vol2/06/dists.ipynb
+      - file: vol2/06/props.ipynb
+      - file: vol2/06/assocs.ipynb
 ![](https://komarev.com/ghpvc/?username=kakeami&color=orange)
 
 ![](image/making.gif)
@@ -24,7 +28,6 @@ I dream of celebrating my graduation by traveling to the U.S. with my family, bu
 - Bluesky - [`kakeami.bsky.social`](https://bsky.app/profile/kakeami.bsky.social)
 - GitHub - [`kakeami`](https://github.com/kakeami)
 - Zenn.dev - [`kakeami`](https://zenn.dev/kakeami)
-- X - [`_kakeami`](https://twitter.com/_kakeami)
 - Email: `kakeami dot contact at gmail dot com`
 
 ## Status
