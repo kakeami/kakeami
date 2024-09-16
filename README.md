@@ -1,7 +1,3 @@
-      - file: vol2/06/amounts.ipynb
-      4 file: vol2/06/dists.ipynb
-      - file: vol2/06/props.ipynb
-      - file: vol2/06/assocs.ipynb
 ![](https://komarev.com/ghpvc/?username=kakeami&color=orange)
 
 ![](image/making.gif)
