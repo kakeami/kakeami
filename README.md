@@ -22,7 +22,6 @@ I dream of celebrating my graduation by traveling to the U.S. with my family, bu
 
 - **しずかなインターネット** - [`kakeami`](https://sizu.me/kakeami)
 - Mixi2 - [`kakeami`](https://mixi.social/@kakeami)
-- Bluesky - [`kakeami.bsky.social`](https://bsky.app/profile/kakeami.bsky.social)
 - GitHub - [`kakeami`](https://github.com/kakeami)
 - Zenn.dev - [`kakeami`](https://zenn.dev/kakeami)
 - Email: `kakeami dot contact at gmail dot com`
