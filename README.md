@@ -21,7 +21,7 @@ I'm the author of a two-volume series on **Data Visualization with Python**, pub
   <tr>
     <td align="center">
       <a href="https://gihyo.jp/book/2026/978-4-297-15271-0">
-        <img src="https://gihyo.jp/assets/images/cover/2026/9784297152710.jpg" width="150" alt="Volume 1"/>
+        <img src="https://gihyo.jp/assets/images/cover/2026/9784297152710.jpg" width="200" alt="Volume 1"/>
       </a>
       <br/>
       <strong>Volume 1: Fundamentals</strong>
@@ -32,7 +32,7 @@ I'm the author of a two-volume series on **Data Visualization with Python**, pub
     </td>
     <td align="center">
       <a href="https://gihyo.jp/book/2026/978-4-297-15273-4">
-        <img src="https://gihyo.jp/assets/images/cover/2026/9784297152734.jpg" width="150" alt="Volume 2"/>
+        <img src="https://gihyo.jp/assets/images/cover/2026/9784297152734.jpg" width="200" alt="Volume 2"/>
       </a>
       <br/>
       <strong>Volume 2: Exploratory Analysis</strong>
@@ -46,8 +46,8 @@ I'm the author of a two-volume series on **Data Visualization with Python**, pub
 
 These books teach data visualization principles using real-world datasets from manga, anime, and games, with hands-on Python exercises.
 
-**Release Date:** January 22, 2026
-**Support Site:** [vizbook-jupyter](https://kakeami.github.io/vizbook-jupyter)
+- **Release Date:** January 22, 2026
+- **Support Site:** [vizbook-jupyter](https://kakeami.github.io/vizbook-jupyter)
 
 ## Works
 
