@@ -77,7 +77,3 @@ This graph tracks the number of mindful breaths counted each day as part of a mi
 Every pixel signifies the total count of conscious breaths taken on that specific day.
 
 ![](https://pixe.la/v1/users/kakeami/graphs/breathing)
-
-### Contributions
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kakeami&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
