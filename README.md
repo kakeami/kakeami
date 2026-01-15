@@ -35,7 +35,7 @@ I'm the author of a two-volume series on **Data Visualization with Python**, pub
         <img src="https://gihyo.jp/assets/images/cover/2026/9784297152734.jpg" width="200" alt="Volume 2"/>
       </a>
       <br/>
-      <strong>Volume 2: Exploratory Analysis</strong>
+      <strong>Volume 2: Applications</strong>
       <br/>
       <em>データを問う力・伝える技術</em>
       <br/>
