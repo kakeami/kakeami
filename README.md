@@ -13,6 +13,42 @@ I’ve since integrated into society, working as a company employee and fatherin
 As a hobby, I'm pursuing a Master’s in Computer Science through OMSCS at the Georgia Institute of Technology.
 I dream of celebrating my graduation by traveling to the U.S. with my family, budget and global circumstances allowing.
 
+## Publications
+
+I'm the author of a two-volume series on **Data Visualization with Python**, published by Gihyo (技術評論社).
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://gihyo.jp/book/2026/978-4-297-15271-0">
+        <img src="https://gihyo.jp/assets/images/cover/2026/9784297152710.jpg" width="150" alt="Volume 1"/>
+      </a>
+      <br/>
+      <strong>Volume 1: Fundamentals</strong>
+      <br/>
+      <em>データを見る力・見せる技術</em>
+      <br/>
+      368 pages
+    </td>
+    <td align="center">
+      <a href="https://gihyo.jp/book/2026/978-4-297-15273-4">
+        <img src="https://gihyo.jp/assets/images/cover/2026/9784297152734.jpg" width="150" alt="Volume 2"/>
+      </a>
+      <br/>
+      <strong>Volume 2: Exploratory Analysis</strong>
+      <br/>
+      <em>データを問う力・伝える技術</em>
+      <br/>
+      424 pages
+    </td>
+  </tr>
+</table>
+
+These books teach data visualization principles using real-world datasets from manga, anime, and games, with hands-on Python exercises.
+
+**Release Date:** January 22, 2026
+**Support Site:** [vizbook-jupyter](https://kakeami.github.io/vizbook-jupyter)
+
 ## Works
 
 - [The 572 Hours, 29 Minutes, and 2 Seconds to Georgia Tech Admission](https://kakeami.github.io/road-to-gatech/)
@@ -41,3 +77,7 @@ This graph tracks the number of mindful breaths counted each day as part of a mi
 Every pixel signifies the total count of conscious breaths taken on that specific day.
 
 ![](https://pixe.la/v1/users/kakeami/graphs/breathing)
+
+### Contributions
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kakeami&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
