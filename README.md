@@ -48,6 +48,7 @@ These books teach data visualization principles using real-world datasets from m
 
 - **Release Date:** January 22, 2026
 - **Support Site:** [vizbook-jupyter](https://kakeami.github.io/vizbook-jupyter)
+- **Meta Analysis:** [The 1,161 Hours, 50 Minutes, and 38 Seconds to Publishing Books](https://kakeami.github.io/road-to-vizbook/)
 
 ## Works
 
