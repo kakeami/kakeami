@@ -59,7 +59,6 @@ These books teach data visualization principles using real-world datasets from m
 ## Contacts
 
 - X - [`_kakeami`](https://x.com/_kakeami)
-- Mixi2 - [`kakeami`](https://mixi.social/@kakeami)
 - GitHub - [`kakeami`](https://github.com/kakeami)
 - Zenn.dev - [`kakeami`](https://zenn.dev/kakeami)
 - しずかなインターネット - [`kakeami`](https://sizu.me/kakeami)
