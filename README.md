@@ -52,15 +52,17 @@ These books teach data visualization principles using real-world datasets from m
 
 ## Works
 
+- [Blog](https://kakeami.github.io/blog) - Personal blog on tech, data visualization, and more
 - [The 572 Hours, 29 Minutes, and 2 Seconds to Georgia Tech Admission](https://kakeami.github.io/road-to-gatech/)
 - [Learning Data Visualization through Manga](https://kakeami.github.io/viz-madb/index.html)
 
 ## Contacts
 
-- **しずかなインターネット** - [`kakeami`](https://sizu.me/kakeami)
+- X - [`_kakeami`](https://x.com/_kakeami)
 - Mixi2 - [`kakeami`](https://mixi.social/@kakeami)
 - GitHub - [`kakeami`](https://github.com/kakeami)
 - Zenn.dev - [`kakeami`](https://zenn.dev/kakeami)
+- しずかなインターネット - [`kakeami`](https://sizu.me/kakeami)
 - Email: `kakeami dot contact at gmail dot com`
 
 ## Status
