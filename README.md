@@ -52,9 +52,9 @@ These books teach data visualization principles using real-world datasets from m
 
 ## Works
 
-- [Blog](https://kakeami.github.io/blog) - Personal blog on tech, data visualization, and more
-- [The 572 Hours, 29 Minutes, and 2 Seconds to Georgia Tech Admission](https://kakeami.github.io/road-to-gatech/)
-- [Learning Data Visualization through Manga](https://kakeami.github.io/viz-madb/index.html)
+- [Blog](https://kakeami.github.io/blog) - Personal blog on data visualization, pop culture × statistics, and lessons from side projects, built with Quarto
+- [The 572 Hours, 29 Minutes, and 2 Seconds to Georgia Tech Admission](https://kakeami.github.io/road-to-gatech/) - A detailed chronicle of the journey and time spent getting admitted to Georgia Tech's OMSCS program
+- [Learning Data Visualization through Manga](https://kakeami.github.io/viz-madb/index.html) - A Jupyter Book teaching data visualization using manga data from Japan's Media Arts Database (MADB)
 
 ## Contacts
 
