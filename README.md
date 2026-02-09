@@ -79,3 +79,10 @@ This graph tracks the number of mindful breaths counted each day as part of a mi
 Every pixel signifies the total count of conscious breaths taken on that specific day.
 
 ![](https://pixe.la/v1/users/kakeami/graphs/breathing)
+
+### [Health Score](https://pixe.la/v1/users/kakeami/graphs/health-score.html)
+
+This graph tracks the gap between current and target body weight (kg).
+As the value approaches zero, the target is closer; positive values mean the goal has been achieved.
+
+![Health Score](https://pixe.la/v1/users/kakeami/graphs/health-score)
