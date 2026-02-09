@@ -83,6 +83,6 @@ Every pixel signifies the total count of conscious breaths taken on that specifi
 ### [Health Score](https://pixe.la/v1/users/kakeami/graphs/health-score.html)
 
 This graph tracks the gap between current and target body weight (kg).
-As the value approaches zero, the target is closer; positive values mean the goal has been achieved.
+As the value approaches zero, the target is closer; negative values mean the goal has been achieved.
 
 ![Health Score](https://pixe.la/v1/users/kakeami/graphs/health-score)
